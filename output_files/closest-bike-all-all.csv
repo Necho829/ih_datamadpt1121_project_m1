@@ -1,0 +1,180 @@
+,place_name,place_type,place_address,bicimad_station,station_location,distance
+0,Auditorio Carmen Laforet (Ciudad Lineal),Centros culturales,CALLE JAZMIN 46,Manuel Caldeiro,Paseo de la Castellana nº 298,2177.692828771628
+1,Auditorio al aire libre. Parque del Calero,Centros culturales,CALLE JOSE DEL HIERRO 3,C.D. Concepción,Calle Jose del Hierro nº 5,247.6360314119281
+2,Auditorio y sala de exposiciones Paco de Lucía (Latina),Centros culturales,AVENIDA LAS AGUILAS 2 A,Caramuel,Calle Caramuel nº 51,4583.158605774528
+3,Centro Comunitario Casino de la Reina,Centros culturales,CALLE CASINO 3,Embajadores 2,Glorieta de Embajadores nº 2,293.2648402465187
+4,Centro Cultural - Centro Socio Cultural Villa de Barajas,Centros culturales,CALLE BOTICA 7 y 10,Gutierre de Cetina,Calle Gutierre de Cetina nº 77,8497.91066342894
+5,Centro Cultural Alfredo Kraus (Fuencarral - El Pardo),Centros culturales,GLORIETA PRADERA DE VAQUERIZAS 9,Pedro Rico,Calle Pedro Rico nº 4,3852.734081218399
+6,Centro Cultural Antonio Machado (San Blas - Canillejas),Centros culturales,CALLE SAN ROMÁN DEL VALLE 8,Gutierre de Cetina,Calle Gutierre de Cetina nº 77,2390.3201588641828
+7,Centro Cultural Auditorio Parque El Paraíso (San Blas - Canillejas),Centros culturales,AVENIDA ARCENTALES 4,Gutierre de Cetina,Calle Gutierre de Cetina nº 77,2098.335992165306
+8,Centro Cultural Buenavista (Salamanca),Centros culturales,AVENIDA TOREROS 5,Avenida de los Toreros,Avenida de los Toreros nº 3,56.57495938037903
+9,Centro Cultural Buero Vallejo (San Blas - Canillejas),Centros culturales,CALLE BOLTA&amp;Ntilde;A 27,Gutierre de Cetina,Calle Gutierre de Cetina nº 77,3553.3667534723168
+10,Centro Cultural Carril del Conde (Hortaleza),Centros culturales,CALLE CARRIL DEL CONDE 57,Condesa de Venadito,Calle Condesa de Venadito nº 2,2002.704141765157
+11,Centro Cultural Casa de Vacas (Retiro),Centros culturales,PASEO COLOMBIA 1,Velázquez,Calle Alcalá nº 95,236.03180796775547
+12,Centro Cultural Casa del Reloj (Arganzuela),Centros culturales,PASEO CHOPERA 6 Y 10,Jaime el Conquistador,Calle Jaime el Conquistador nº 30,274.26498977452053
+13,Centro Cultural Ciudad Pegaso (San Blas - Canillejas),Centros culturales,AVENIDA SÉPTIMA 11,Gutierre de Cetina,Calle Gutierre de Cetina nº 77,5219.050133970119
+14,Centro Cultural Dotacional Integrado Arganzuela,Centros culturales,CALLE CANARIAS 17,Palos de la Frontera,Calle Palos de la Frontera nº 27,173.7846616910544
+15,Centro Cultural Eduardo Úrculo (Tetuán),Centros culturales,PLAZA DONOSO 5,Remonta,Calle Azucenas nº 1,669.5108511966502
+16,Centro Cultural Federico Chueca (Hortaleza),Centros culturales,CALLE BENITA AVILA 17,Carlota O’Neill,Calle Carlota O'Neill nº 32,2375.444367513074
+17,Centro Cultural Fernando Lázaro Carreter (Carabanchel),Centros culturales,CALLE VERDAD 29,Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,737.6572587610061
+18,Centro Cultural Fernando de los Ríos (Latina),Centros culturales,CALLE CAMARENA 10 B,Caramuel,Calle Caramuel nº 51,3444.725774075568
+19,Centro Cultural Francisco Fatou (Villa de Vallecas),Centros culturales,CALLE MANUEL VELEZ 10,Pavones,Calle Hacienda de Pavones nº 342,2644.141944988311
+20,Centro Cultural Galileo (Chamberí),Centros culturales,CALLE GALILEO 39,Fernando el Católico,Calle Fernando el Católico nº 19,225.3569774117737
+21,Centro Cultural Gloria Fuertes (Barajas),Centros culturales,AVENIDA LOGROÑO 179,Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6299.812338093596
+22,Centro Cultural Hortaleza,Centros culturales,CALLE SANTA VIRGILIA 15,Carlota O’Neill,Calle Carlota O'Neill nº 32,3770.6586975109585
+23,Centro Cultural Huerta de la Salud (Hortaleza),Centros culturales,CALLE MAR DE LAS ANTILLAS 8,Carlota O’Neill,Calle Carlota O'Neill nº 32,3487.5646348751766
+24,Centro Cultural José Luis López Vázquez (San Blas - Canillejas),Centros culturales,CALLE FEBRERO 4,Gutierre de Cetina,Calle Gutierre de Cetina nº 77,7847.669574257594
+25,Centro Cultural José Luis Sampedro (Latina),Centros culturales,CALLE CASTROSERNA 4,Caramuel,Calle Caramuel nº 51,2444.2512432932385
+26,Centro Cultural Juan Gris (Moncloa - Aravaca),Centros culturales,CALLE FRANCOS RODRíGUEZ 100,Francos Rodríguez,Calle Francos Rodríguez nº 62,490.58186696385695
+27,Centro Cultural Julio Cortázar (Moncloa - Aravaca),Centros culturales,CALLE ANTONIO MACHADO 20,Francos Rodríguez,Calle Francos Rodríguez nº 62,1707.3884594843992
+28,Centro Cultural La Vaguada (Fuencarral - El Pardo),Centros culturales,AVENIDA MONFORTE DE LEMOS 38,Remonta,Calle Azucenas nº 1,2213.3211557000636
+29,Centro Cultural Las Californias (Retiro),Centros culturales,CALLE LUIS PEIDRO 2,Méndez Álvaro,Calle Retama nº 5,391.2425042405785
+30,Centro Cultural Lope de Vega (Puente de Vallecas),Centros culturales,CALLE CONCEJO DE TEVERGA 1,Méndez Álvaro,Calle Retama nº 5,981.8674558652491
+31,Centro Cultural Los Rosales (Villaverde),Centros culturales,AVENIDA LOS ROSALES 133,Embajadores 191,Calle Sodio nº 1B,4527.496854380751
+32,Centro Cultural Mercado de Ibiza (Retiro),Centros culturales,CALLE IBIZA 8 PLANTA 1ª,Retiro-Ibiza,Calle Ibiza nº 18,87.62967741006176
+33,Centro Cultural Meseta de Orcasitas (Usera),Centros culturales,PLAZA ASOCIACION 1,Glorieta de Cádiz,Calle Antonio López nº 129,2322.2891324582315
+34,Centro Cultural Miguel Hernández (Latina),Centros culturales,CALLE SERRADILLA 13,Caramuel,Calle Caramuel nº 51,6847.612807773379
+35,Centro Cultural Moncloa (Moncloa - Aravaca),Centros culturales,PLAZA MONCLOA 1,Moncloa,Paseo de Moret nº 2,142.63247117695764
+36,Centro Cultural Nicolás Salmerón (Chamartín),Centros culturales,CALLE MANTUANO 51,Doctor Arce 45,Avenida del Doctor Arce nº 45,391.04183107965343
+37,Centro Cultural Orcasur (Usera),Centros culturales,PLAZA PUEBLO 2,Glorieta de Cádiz,Calle Antonio López nº 129,2471.62769687388
+38,Centro Cultural Pozo del tío Raimundo (Puente de Vallecas),Centros culturales,AVENIDA DE LAS GLORIETAS 19 19-21 entrada por la plaza del Padre Llanos,Concordia,Calle Arroyo del Olivar nº 6,2340.9891393120656
+39,Centro Cultural Príncipe de Asturias (Ciudad Lineal),Centros culturales,AVENIDA INSTITUCION LIBRE DE ENSE&amp;Ntilde;ANZA 14,Gutierre de Cetina,Calle Gutierre de Cetina nº 77,855.8559221298376
+40,Centro Cultural Puerta de Toledo (Centro),Centros culturales,AVENIDA GRAN VIA DE SAN FRANCISCO 2,Puerta de Toledo,Glorieta de la Puerta de Toledo nº 1,105.47832539271637
+41,"Centro Cultural Rafael Altamira, antes Palacete Quinta del Berro (Salamanca)",Centros culturales,CALLE ENRIQUE D'ALMONTE 1,Quinta Fuente del Berro,Calle Sancho Dávila esquina Paseo Marqués de Zafra,372.332677728799
+42,Centro Cultural San Francisco La Prensa (Carabanchel),Centros culturales,CALLE ALISEDA 4,Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,3667.9100164307615
+43,Centro Cultural San Juan Bautista (Ciudad Lineal),Centros culturales,CALLE SAN NEMESIO 4,Condesa de Venadito,Calle Condesa de Venadito nº 2,1015.1527532875573
+44,Centro Cultural Sanchinarro (Hortaleza),Centros culturales,CALLE PRINCESA DE EBOLI 29 C/V Conde de Mayalde,Manuel Caldeiro,Paseo de la Castellana nº 298,3568.523989499525
+45,Centro Cultural Sara Montiel (Latina),Centros culturales,CARRETERA BOADILLA DEL MONTE 40,Caramuel,Calle Caramuel nº 51,5303.499761326577
+46,Centro Cultural Usera 1,Centros culturales,AVENIDA RAFAELA YBARRA 49,Glorieta de Cádiz,Calle Antonio López nº 129,1488.8947047145978
+47,Centro Cultural Usera 2,Centros culturales,CALLE FELIPE CASTRO 30,Antonio López,Calle Eugenio Caxes frente al nº 12,1098.281199481737
+48,Centro Cultural Valdebernardo (Vicálvaro),Centros culturales,BULEVAR INDALECIO PRIETO 21,Pavones,Calle Hacienda de Pavones nº 342,1485.3049384699661
+49,Centro Cultural Zazuar (Villa de Vallecas),Centros culturales,CALLE ZAZUAR 4,Pavones,Calle Hacienda de Pavones nº 342,3726.1865979014183
+50,Centro Cultural el Madroño (Vicálvaro),Centros culturales,CALLE VILLARDONDIEGO 36,Pavones,Calle Hacienda de Pavones nº 342,2948.267896340527
+51,Centro Cultural el Torito (Moratalaz),Centros culturales,AVENIDA MORATALAZ 130,Marroquina,Calle Camino de los Vinateros nº 108,242.01606825645638
+52,Centro Cultural la Elipa (Ciudad Lineal),Centros culturales,CALLE SANTA FELICIDAD 39,Marqués de Corbera 52,Avenida Marqués de Corbera nº 52,204.92281852980193
+53,Centro Integrado Santiago Apóstol (Hortaleza),Centros culturales,CALLE CARRION DE LOS CONDES 73,Pío XII,Avenida Pío XII nº 3,2745.3228469016694
+54,Centro Juvenil Carabanchel Alto,Centros culturales,CALLE ALFONSO FERNANDEZ 23,Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,5570.46226333238
+55,Centro Juvenil El Aleph (Villa de Vallecas),Centros culturales,CALLE ZAZUAR 1 C/V. Avda. Mediterráneo,Pavones,Calle Hacienda de Pavones nº 342,3805.318261000566
+56,Centro Juvenil El Pardo,Centros culturales,AVENIDA PADRE CIPRIANO 11,Facultad Derecho,Avenida Complutense nº 23,9398.25123917411
+57,Centro Juvenil El Sitio de mi Recreo (Villa de Vallecas),Centros culturales,CALLE REAL DE ARGANDA 39,Pavones,Calle Hacienda de Pavones nº 342,3044.4763929882884
+58,Centro Juvenil Hontalbilla (Fuencarral - El Pardo),Centros culturales,CALLE HONTALBILLA 10,Pedro Rico,Calle Pedro Rico nº 4,1273.6134784078909
+59,Centro Juvenil Tetuán Punto Joven,Centros culturales,"CALLE DULCINEA 4 Acceso por Raimundo Fdez. Villaverde, 35",Raimundo Fernández,Calle Raimundo Fernández Villaverde nº 33,33.37433046292671
+60,Centro Juvenil de Usera,Centros culturales,CALLE CUESTA 4,San Delfín,Calle San Delfín nº 9,510.4887931912454
+61,Centro Social Polivalente de Vicálvaro,Centros culturales,AVENIDA REAL 12,Pavones,Calle Hacienda de Pavones nº 342,3082.1721721950566
+62,Centro Sociocultural  Siena (Ciudad Lineal),Centros culturales,CALLE SIENA 52,José María Pereda,Calle José María de Pereda nº 1,376.5069567433637
+63,Centro Sociocultural Agustín Díaz (Moncloa - Aravaca),Centros culturales,PASEO COMANDANTE FORTEA 42,Paseo de Moret,Paseo de Moret nº 11,1033.7065682580328
+64,Centro Sociocultural Alberto Sánchez (Puente de Vallecas),Centros culturales,CALLE RISCO DE PELOCHE 14,Sierra Toledana,Camino de Valderribas nº 94,833.2269753407638
+65,Centro Sociocultural Alfonso XII (Fuencarral - El Pardo),Centros culturales,CALLE MIRA EL RIO 4,Facultad Derecho,Avenida Complutense nº 23,9359.786133928432
+66,Centro Sociocultural Almirante Churruca (Latina),Centros culturales,CALLE FUENTE DEL TIRO 72,Caramuel,Calle Caramuel nº 51,6446.314196162375
+67,Centro Sociocultural Aravaca (Moncloa - Aravaca),Centros culturales,CALLE DE LA ZARZA 20,Facultad Derecho,Avenida Complutense nº 23,6354.270504075889
+68,Centro Sociocultural Aula de Aire Libre (Puente de Vallecas),Centros culturales,CALLE SIERRA CARBONERA 74,Concordia,Calle Arroyo del Olivar nº 6,420.983590546859
+69,Centro Sociocultural Blasco Ibáñez (Carabanchel),Centros culturales,CALLE SOLDADO JOSE MARIA REY 44,Ermita Santo,Paseo de la Ermita del Santo nº 48,1612.6301636567155
+70,Centro Sociocultural Bohemios (Villaverde),Centros culturales,CALLE LOS BOHEMIOS 1,Embajadores 191,Calle Sodio nº 1B,3681.2928620463745
+71,Centro Sociocultural Ciudad Lineal,Centros culturales,CALLE POETA BLAS DE OTERO 81,Marqués de Corbera 52,Avenida Marqués de Corbera nº 52,380.539304291177
+72,Centro Sociocultural Clara Campoamor (Retiro),Centros culturales,PLAZA DAOIZ Y VELARDE 2 PLANTA 1ª,Junta Municipal Retiro,Calle León Gil de Palacio nº 3,191.20336300448207
+73,Centro Sociocultural Clara del Rey (Centro),Centros culturales,CALLE RIBERA DE CURTIDORES 2 PLANTA 1ª,Plaza de la Cebada,Plaza de la Cebada nº 16 ,276.59082949529926
+74,Centro Sociocultural Cánovas del Castillo (Usera),Centros culturales,CALLE JULIO AGUIRRE 10 y 12,Glorieta de Cádiz,Calle Antonio López nº 129,299.4489142623619
+75,Centro Sociocultural Eduardo Chillida (Moratalaz),Centros culturales,CALLE ARROYO BELINCOSO 9,Plaza del Encuentro,Calle Arroyo de las Pilillas nº 6,422.05998312804786
+76,Centro Sociocultural El Greco (Latina),Centros culturales,CALLE EL GRECO 29,Caramuel,Calle Caramuel nº 51,2121.655793866642
+77,Centro Sociocultural García Lorca (Carabanchel),Centros culturales,CALLE EUGENIA DE MONTIJO 105,Caramuel,Calle Caramuel nº 51,4628.477775763396
+78,Centro Sociocultural José de Espronceda (Tetuán),Centros culturales,CALLE ALMANSA 9,Cuatro Caminos 2,Calle Doctor Santero nº 1,114.62460136118109
+79,Centro Sociocultural Las Tablas (Fuencarral - El Pardo),Centros culturales,AVENIDA CAMINO DE SANTIAGO 39,Manuel Caldeiro,Paseo de la Castellana nº 298,2242.9400421057153
+80,Centro Sociocultural Latina,Centros culturales,CALLE RODRIGO DE ARANA 50,Caramuel,Calle Caramuel nº 51,5310.951032937289
+81,Centro Sociocultural Lavapiés (Centro),Centros culturales,CALLE OLIVAR 46,Jesús y María,Calle Lavapiés nº 34,116.99313077595929
+82,Centro Sociocultural Luis Gonzaga (Chamartín),Centros culturales,CALLE PRINCIPE DE VERGARA 142,María Francisca 1,Calle María Francisca nº 1,101.80237810724321
+83,Centro Sociocultural Maestro Alonso (Salamanca),Centros culturales,CALLE MAESTRO ALONSO 6,Alcalá-Ventas,Calle Alejandro González nº 1,138.31150716768468
+84,Centro Sociocultural Marconi (Villaverde),Centros culturales,ACCESO COLONIA MARCONI 4 calle Eustaquio 25 (frente a fachada),Glorieta de Cádiz,Calle Antonio López nº 129,6033.734262223799
+85,Centro Sociocultural Miguel de Cervantes (San Blas - Canillejas),Centros culturales,CALLE ALIAGA 5,Gutierre de Cetina,Calle Gutierre de Cetina nº 77,3394.2635224235223
+86,Centro Sociocultural Montecarmelo (Fuencarral - El Pardo),Centros culturales,Avenida Santuario de Valverde 114 Carretera M-607 km 13-L10. Acceso a través del PAU Montecarmelo,Pedro Rico,Calle Pedro Rico nº 4,3936.144524147686
+87,Centro Sociocultural Oporto (Carabanchel),Centros culturales,AVENIDA OPORTO 78,Marqués de Vadillo,Glorieta Marqués de Vadillo nº 9,1776.875020419228
+88,Centro Sociocultural Rafael de León (Fuencarral - El Pardo),Centros culturales,CALLE ISLA DE ONS 14,Francos Rodríguez,Calle Francos Rodríguez nº 62,3018.7553858388783
+89,Centro Sociocultural Rosario de Acuña (Latina),Centros culturales,CALLE MARIA DEL CARMEN 65,Caramuel,Calle Caramuel nº 51,551.3327441474527
+90,Centro Sociocultural San Cristóbal de los Ángeles (Villaverde),Centros culturales,PLAZA PINAZO 9 PLANTA 1ª,Embajadores 191,Calle Sodio nº 1B,5223.427401341906
+91,Centro Sociocultural San Fermín (Usera),Centros culturales,CALLE ESTAFETA 33 Entrada por calle Taconera,Embajadores 191,Calle Sodio nº 1B,1970.1662199484147
+92,Centro Sociocultural Santa Petronila (Villaverde),Centros culturales,CALLE MARIA MARTINEZ OVIOL 12,Embajadores 191,Calle Sodio nº 1B,4275.202083669813
+93,Centro Sociocultural Talleres de Creatividad (Puente de Vallecas),Centros culturales,CALLE SIERRA CARBONERA 74,Concordia,Calle Arroyo del Olivar nº 6,420.983590546859
+94,Centro Sociocultural Teresa de Calcuta (Barajas),Centros culturales,PLAZA NAVIO 4,Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6598.775106738703
+95,Centro Sociocultural Tetuán,Centros culturales,CALLE BRAVO MURILLO 251,San Germán 57,Calle San Germán nº 57,213.73413410618596
+96,Centro Sociocultural Valle Inclán (Fuencarral - El Pardo),Centros culturales,CALLE ARZOBISPO MORCILLO 7,Pedro Rico,Calle Pedro Rico nº 4,545.2044414201498
+97,Centro Sociocultural Valverde (Fuencarral - El Pardo),Centros culturales,PLAZA ISLAS AZORES 1,Pedro Rico,Calle Pedro Rico nº 4,1554.8124610657064
+98,Centro Sociocultural Vicálvaro,Centros culturales,CALLE LAGO TITICACA 10,Pavones,Calle Hacienda de Pavones nº 342,2921.5049247054358
+99,Centro Sociocultural de Moratalaz,Centros culturales,CALLE FUENTE CARRANTONA 10,Pavones,Calle Hacienda de Pavones nº 342,263.49405302974435
+100,Centro Sociocultural Ágata (Villaverde),Centros culturales,CALLE DOCTOR MARTIN AREVALO 2,Glorieta de Cádiz,Calle Antonio López nº 129,4831.532693348542
+101,Centro de Cultura Contemporánea Conde Duque,Centros culturales,CALLE CONDE DUQUE 11,Conde Duque,Calle Conde Duque nº 22,83.38087258660524
+102,Centro de Educación Ambiental y Cultural Maris Stella (Usera),Centros culturales,CALLE DOCTOR TOLOSA LATOUR 16 A,Glorieta de Cádiz,Calle Antonio López nº 129,1680.5674081672466
+103,CentroCentro,Centros culturales,PLAZA CIBELES 1 Palacio de Cibeles,Cibeles,Plaza Cibeles,133.73136532979117
+104,"Espacio Cultural Núñez de Balboa, 40 (Salamanca)",Centros culturales,CALLE NUÑEZ DE BALBOA 40,Ayala,Calle Ayala nº 44,129.37742217487198
+105,Espacio Polivalente Embajadores,Centros culturales,CALLE EMBAJADORES 18,Plaza de Nelson Mandela,Calle Mesón de Paredes nº 35,238.02687464721834
+106,Fernán Gómez Centro Cultural de la Villa,Centros culturales,PLAZA COLON 4,Plaza de Colón,Calle Goya nº 1,106.22689937733504
+107,Matadero Madrid,Centros culturales,PLAZA LEGAZPI 8,Legazpi,Calle Bolívar nº 3,185.82109428205237
+108,Medialab en Matadero. Matadero Madrid,Centros culturales,PASEO CHOPERA 14,Entrada Matadero,Paseo de la Chopera nº 14,62.272540420616544
+109,Nave de Terneras del Centro Cultural Casa del Reloj,Centros culturales,PASEO CHOPERA 10,Entrada Matadero,Paseo de la Chopera nº 14,127.97722295475425
+0,Casa Museo Lope de Vega,museos,CALLE CERVANTES 11,Huertas,Calle Jesús nº 1,239.3746404898801
+1,Casita - Museo del Ratón Pérez,museos,CALLE ARENAL 8 PLANTA 1.ª,Plaza de Celenque A,Plaza de Celenque nº 1,45.42681069812772
+2,Castillo de la Alameda,museos,CALLE ANTONIO SANCHA 1,Gutierre de Cetina,Calle Gutierre de Cetina nº 77,6203.474433319815
+3,Casón del Buen Retiro. Centro de Estudios del Museo Nacional del Prado,museos,CALLE ALFONSO XII 28,Antonio Maura,Calle Antonio Maura nº 15,159.39808684637552
+4,Centro Cultural La Corrala. Museo de Artes y Tradiciones Populares,museos,CALLE CARLOS ARNICHES 3 y 5,Plaza de la Cebada,Plaza de la Cebada nº 16 ,278.49715590681603
+5,Ermita de San Antonio de la Florida (Museo),museos,GLORIETA SAN ANTONIO DE LA FLORIDA 5,Paseo de la Florida,Paseo de la Florida nº 8,513.587903238339
+6,Espacio Fundación Telefónica,museos,CALLE FUENCARRAL 3,Desengaño,Calle Desengaño nº 1,89.89145854940857
+7,Fundación AMYC (Arte Moderno y Contemporáneo). Casa Museo Fuente del Rey,museos,CALLE FUENTE DEL REY 11,Facultad Derecho,Avenida Complutense nº 23,4623.4089552992245
+8,La Casa Encendida de la Fundación Montemadrid,museos,RONDA VALENCIA 2,Casa Encendida,Ronda de Atocha nº 34,58.242314220943726
+9,Museo ABC,museos,CALLE AMANIEL 29 -31,Conde Duque,Calle Conde Duque nº 22,101.11187513176561
+10,Museo Africano Misioneros Combonianos,museos,CALLE ARTURO SORIA 101,Carlota O’Neill,Calle Carlota O'Neill nº 32,700.6266629164306
+11,Museo Arqueológico Nacional,museos,CALLE SERRANO 13,Villanueva,Calle Claudio Coello nº 109,167.03208608852032
+12,Museo Casa de la Moneda,museos,CALLE DOCTOR ESQUERDO 36,Jorge Juan,Calle Jorge Juan nº 131,61.741199045279664
+13,Museo Cerralbo,museos,CALLE VENTURA RODRIGUEZ 17,Ventura Rodríguez,Calle Duque de Liria,288.61474125939577
+14,Museo EMT,museos,CALLE MAURICIO LEGENDRE 40,Manuel Caldeiro,Paseo de la Castellana nº 298,256.6810929517371
+15,Museo Félix Cañada,museos,CALLE ALENZA 1,Santa Engracia 127,Calle Santa Engracia nº 127,147.6319450545509
+16,Museo Geominero,museos,CALLE RIOS ROSAS 23,Santa Engracia 127,Calle Santa Engracia nº 127,226.32041966076852
+17,Museo Histórico Minero Don Felipe de Borbón y Grecia,museos,CALLE RIOS ROSAS 21,Santa Engracia 127,Calle Santa Engracia nº 127,150.95488324080821
+18,Museo ICO,museos,CALLE ZORRILLA 3,Sevilla,Calle Alcalá nº 27,174.2749273038066
+19,Museo Los Caños del Peral. Estación de Metro Ópera,museos,PLAZA ISABEL II 1,Palacio de Oriente,Calle Carlos III nº 1,167.07009934094071
+20,Museo Lázaro Galdiano,museos,CALLE SERRANO 122,Paseo de la Castellana - Glorieta de Emilio Castelar,Paseo de la Castellana nº 43,365.83916027455996
+21,Museo Nacional Centro de Arte Reina Sofía (MNCARS),museos,CALLE SANTA ISABEL 52,Museo Reina Sofía,Calle Santa Isabel nº 57,78.83775077650337
+22,Museo Nacional Thyssen-Bornemisza,museos,PASEO PRADO 8,Marqués de Cubas,Calle del Marqués de Cubas nº 25,114.13588966471737
+23,Museo Nacional de Antropología,museos,CALLE ALFONSO XII 68,Atocha B,Paseo de la Infanta Isabel nº 3,147.39995946614204
+24,Museo Nacional de Artes Decorativas,museos,CALLE MONTALBAN 12,Antonio Maura,Calle Antonio Maura nº 15,139.5683125581925
+25,Museo Nacional de Ciencias Naturales,museos,CALLE JOSE GUTIERREZ ABASCAL 2,José Gutiérrez Abascal ,Calle José Gutiérrez Abascal nº 2,103.3055895226658
+26,Museo Naval,museos,PASEO PRADO 5,Cibeles,Plaza Cibeles,142.39199849908323
+27,Museo Postal y Telegráfico,museos,CALLE TAPIA DE CASARIEGO 6,Facultad Derecho,Avenida Complutense nº 23,4799.821061942716
+28,Museo Sorolla,museos,PASEO GENERAL MARTINEZ CAMPOS 37,General Martínez Campos ,Calle Fernández de la Hoz nº 29,284.5299494759469
+29,Museo Taurino de la Comunidad de Madrid,museos,CALLE ALCALA 237,Alcalá-Ventas,Calle Alejandro González nº 1,193.10499419834989
+30,Museo Tiflológico,museos,CALLE LA CORUÑA 18,San Germán 57,Calle San Germán nº 57,247.4890047955663
+31,Museo de Aeronáutica y Astronáutica,museos,"AUTOVIA A-5 10.700 Km. 10,5",Caramuel,Calle Caramuel nº 51,9750.799381459567
+32,Museo de América,museos,AVENIDA REYES CATOLICOS 6,Moncloa,Paseo de Moret nº 2,402.03199799045126
+33,Museo de Arte Contemporáneo de Madrid,museos,CALLE CONDE DUQUE 9,Conde Duque,Calle Conde Duque nº 22,19.8009091351428
+34,Museo de Astronomía y Geodesia,museos,PLAZA CIENCIAS 3,Facultad Biología,Calle José Antonio Novais frente al nº 12,170.64414020176926
+35,Museo de Bomberos de Madrid,museos,CALLE BOADA 4,Sierra Toledana,Camino de Valderribas nº 94,912.2472228896835
+36,Museo de Calcografía Nacional,museos,CALLE ALCALA 13,Puerta del Sol B,Puerta del Sol nº 1,110.77814562422203
+37,Museo de Cera,museos,PASEO RECOLETOS 41,Marqués de la Ensenada,Calle Marqués de la Ensenada nº 16,129.594080250662
+38,Museo de Escultura al Aire Libre de la Castellana,museos,PASEO CASTELLANA 40,Castellana 42,Paseo de la Castellana nº 42,39.843308428204054
+39,Museo de Historia de Madrid,museos,CALLE FUENCARRAL 78,Barceló,Calle Barceló nº 7,111.96287903990341
+40,Museo de Historia de la Comunidad Judía de Madrid,museos,CALLE BALMES 3,Santa Engracia 87,Calle Santa Engracia nº 87,112.75841672470256
+41,Museo de Mineralogía,museos,CALLE FRANCISCO TOMAS Y VALIENTE 7 Facultad de Ciencias - Departamento Geología y Geoquímica,Pedro Rico,Calle Pedro Rico nº 4,7196.2638022252
+42,Museo de San Isidro. Los Orígenes de Madrid,museos,PLAZA SAN ANDRES 1,Plaza de los Carros,Carrera de San Francisco nº 1,105.19868517917773
+43,Museo de Sanidad e Higiene Pública,museos,AVENIDA MONFORTE DE LEMOS 5,Torre Cepsa,Calle Sinesio Delgado nº 2,264.2125652293988
+44,Museo de la Biblioteca Nacional de España,museos,PASEO RECOLETOS 20 y 22,Biblioteca Nacional,Paseo de Recoletos nº 20,25.712960966583754
+45,Museo de la Catedral de la Almudena,museos,CALLE BAILEN 10 Entrada por un costado de la entrada principal de la catedral,Segovia 26,Calle Segovia nº 26,190.246873217771
+46,Museo de la Farmacia Hispana,museos,PLAZA RAMON Y CAJAL Facultad de Farmacia,Ciudad Universitaria 1,Avenida de la Complutense (Metro Ciudad Universitaria),122.67955923461227
+47,Museo de la Guardia Civil,museos,CALLE GUZMAN EL BUENO 110,Reina Victoria,Calle Beatriz de Bobadilla frente al nº 2,277.4224808245633
+48,Museo de la Real Academia de Bellas Artes de San Fernando,museos,CALLE ALCALA 13,Puerta del Sol B,Puerta del Sol nº 1,112.3466107830937
+49,Museo del Ferrocarril de Madrid,museos,PASEO DELICIAS 61,Delicias,Calle Bustamante nº 1,72.48611547912292
+50,Museo del Prado,museos,CALLE RUIZ DE ALARCON 23,Espalter,Calle Espalter nº 1,84.32455179902418
+51,Museo del Reloj Grassy,museos,CALLE GRAN VIA 1,Sevilla,Calle Alcalá nº 27,118.33547856506931
+52,Museo del Romanticismo,museos,CALLE SAN MATEO 13,Hortaleza,Calle Hortaleza nº 75,134.97108727436006
+53,Museo del Seguro. Fundación Mapfre,museos,CALLE BARBARA DE BRAGANZA 14,Biblioteca Nacional,Paseo de Recoletos nº 20,170.652532455434
+54,Museo del Traje. Centro de Investigación del Patrimonio Etnológico (CIPE),museos,AVENIDA JUAN DE HERRERA 2,INEF,Avenida Juan de Herrera frente a la calle Paul Guinard,250.2164528373668
+55,Palacio Real de El Pardo,museos,CALLE MANUEL ALONSO 8,Facultad Derecho,Avenida Complutense nº 23,9331.608481464673
+56,Palacio Real de Madrid,museos,CALLE BAILEN,San Quintín,Calle Pavía nº 6,217.40063782261603
+57,Panteón de Hombres Ilustres,museos,CALLE JULIAN GAYARRE 3,Puerta de Granada,Avenida de Menéndez Pelayo nº 38,358.32324688617194
+58,Parroquia Santa Cruz,museos,CALLE ATOCHA 6,Conde de Romanones,Plaza del Conde de Romanones nº 9,87.9263923657583
+59,Planetario de Madrid,museos,AVENIDA PLANETARIO 16,Embajadores 191,Calle Sodio nº 1B,690.104424867201
+60,Real Basílica San Francisco el Grande,museos,CALLE SAN BUENAVENTURA 1,Plaza de San Francisco,Plaza de San Francisco nº 5,43.82768492123296
+61,Real Fábrica de Tapices,museos,CALLE FUENTERRABIA 2,Puerta de Granada,Avenida de Menéndez Pelayo nº 38,259.5764542181538
+62,Real Monasterio de Santa Isabel,museos,CALLE SANTA ISABEL 48,Antón Martín,Calle Atocha nº 54,38.83226043931026
+63,Real Monasterio de la Encarnación,museos,PLAZA ENCARNACION 1,San Quintín,Calle Pavía nº 6,52.639988789424876
+64,Real Monasterio de las Descalzas Reales,museos,PLAZA DESCALZAS 3,Plaza de Celenque A,Plaza de Celenque nº 1,107.5860580090725
+65,Templo de Debod,museos,CALLE FERRAZ 1,Ferraz,Calle Evaristo San Miguel nº 2,139.55685359843184
+66,The Robot Museum (Museo del Robot),museos,CALLE SERRANO 61 PLANTA BAJA,Castellana 42,Paseo de la Castellana nº 42,170.69272827889927
+67,Yacimiento paleontológico. Estación de Metro Carpetana,museos,CALLE VIA CARPETANA 141,Caramuel,Calle Caramuel nº 51,2332.784571525029
+68,Zapadores Ciudad del Arte,museos,CALLE ANTONIO DE CABEZON 70,Pedro Rico,Calle Pedro Rico nº 4,1790.8680029448763
